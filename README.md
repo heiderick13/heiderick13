@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marcelo👋
 
-- 🔭 Trabalho com front-end
-- 🌱 Bootstrap e JavaScript
+- 🔭 Front-end developer
+- 🌱 ReactJs
 - 🔍 Disponível para trabalhar
 
 <div class="stats"><br/>
